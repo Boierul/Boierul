@@ -13,15 +13,21 @@
 
 - 🌱 I’m currently learning too much and code too little  ¯\\_(ツ)_/¯
 - 🥅 2 year Goals: Contribute more to Open Source projects (and finish my website) 
-- ⚡ Fun fact: Bear eat beets. Beets beat Battlestar Gallactica!
+- ⚡ Fun fact: Bear eat beets. Beets beat Battlestar Gallactica! 🔭
+
+---
 
 <details>
-<summary>🔭 My projects</summary>
-  <!--START_SECTION:activity-->
-    <!--  Insert links to my projects    -->
-  <!--END_SECTION:activity-->
+  <summary>🔭 The projects of mine</summary>
+  
+<!--START_SECTION:activity-->
+1. ✔️ First attempt at using a WebApi to [CRUD data](https://github.com/Boierul/TodosWebAPI) 
+2. 🔒 Implementation of famous [Cryptographical Algorithms](https://github.com/Boierul/Cryptography) in Python
+<!--END_SECTION:activity-->
+
 </details>
 
+---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boierul&show_icons=true&theme=radical)
 
