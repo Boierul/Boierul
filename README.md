@@ -1,6 +1,5 @@
 ### Hi there, I'm @Boierul 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boierul&show_icons=true&theme=radical)
 
 ## I'm a newbie Developer that is trying his best at coding
 
@@ -28,10 +27,12 @@
 <br /> -->
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boierul&show_icons=true&theme=radical)
+
 ### Connect with me:
 
-[<img align="left" alt="INPROGRESS..." width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Boierul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="INPROGRESS..." width="22px" src="https://github.com/Boierul/Boierul/blob/main/Images/Website_Globe.png" />][website]
+[<img align="left" alt="Boierul | LinkedIn" width="22px" src="https://github.com/Boierul/Boierul/blob/main/Images/LinkedIn_Logo.png" />][linkedin]
 <br />
 
 
