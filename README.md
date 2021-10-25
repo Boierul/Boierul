@@ -13,7 +13,7 @@
 ## I'm a newbie Developer that is trying his best at coding
 
 - 🌱 I’m currently learning too much and code too little  ¯\\_(ツ)_/¯
-- 🥅 2 year Goals: Contribute more to Open Source projects (and finish my website) 
+- 🥅 Near-future Goals: Contribute more to Open Source projects (and finish my website) 
 - 🗨️ Fun fact: Bears eat beets. Bears, Beets, Battlestar Galactica!
 <br>
 
