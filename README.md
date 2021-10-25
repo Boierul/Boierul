@@ -4,16 +4,17 @@
 
 <!--START_SECTION:activity-->
 1. 💪 Created a decent GitHub page [Boierul](https://github.com/Boierul)
-<!-- 1. 💪 Opened PR [#1412](https://github.com/nuxt/framework/pull/1412) in [nuxt/framework](https://github.com/nuxt/framework)
-2. ❗️ Opened issue [#1408](https://github.com/nuxt/framework/issues/1408) in [nuxt/framework](https://github.com/nuxt/framework)
-3. 🎉 Merged PR [#226](https://github.com/madlabsinc/mevn-cli/pull/226) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli) -->
+2. 🧱 Commited some personal [projects](https://github.com/Boierul?tab=repositories)  
+                  <!-- 1. 💪 Opened PR [#1412](https://github.com/nuxt/framework/pull/1412) in [nuxt/framework](https://github.com/nuxt/framework)
+                  2. ❗️ Opened issue [#1408](https://github.com/nuxt/framework/issues/1408) in [nuxt/framework](https://github.com/nuxt/framework)
+                  3. 🎉 Merged PR [#226](https://github.com/madlabsinc/mevn-cli/pull/226) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli) -->
 <!--END_SECTION:activity-->
 
 ## I'm a newbie Developer that is trying his best at coding
 
 - 🌱 I’m currently learning too much and code too little  ¯\\_(ツ)_/¯
 - 🥅 2 year Goals: Contribute more to Open Source projects (and finish my website) 
-- ⚡ Fun fact: Bear eat beets. Beets beat Battlestar Gallactica! 🔭
+- 🗨️ Fun fact: Bears eat beets. Bears, Beets, Battlestar Galactica!
 <br>
 
 <details>
