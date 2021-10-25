@@ -14,8 +14,7 @@
 - 🌱 I’m currently learning too much and code too little  ¯\\_(ツ)_/¯
 - 🥅 2 year Goals: Contribute more to Open Source projects (and finish my website) 
 - ⚡ Fun fact: Bear eat beets. Beets beat Battlestar Gallactica! 🔭
-
----
+<br>
 
 <details>
   <summary>🔭 The projects of mine</summary>
@@ -26,8 +25,7 @@
 <!--END_SECTION:activity-->
 
 </details>
-
----
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boierul&show_icons=true&theme=radical)
 
