@@ -1,7 +1,5 @@
 ### Hi there, I'm @Boierul 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](Blanck_for_now)
-
 ## I'm a newbie Developer that is trying his best at coding
 
 - 🌱 I’m currently learning too much and code too little  ¯\\_(ツ)_/¯
