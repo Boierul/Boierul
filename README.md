@@ -1,7 +1,13 @@
 ### Hi there, I'm @Boierul 👋
-
-
          
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+1. 💪 Created a decent GitHub page [Boierul](https://github.com/Boierul)
+<!-- 1. 💪 Opened PR [#1412](https://github.com/nuxt/framework/pull/1412) in [nuxt/framework](https://github.com/nuxt/framework)
+2. ❗️ Opened issue [#1408](https://github.com/nuxt/framework/issues/1408) in [nuxt/framework](https://github.com/nuxt/framework)
+3. 🎉 Merged PR [#226](https://github.com/madlabsinc/mevn-cli/pull/226) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli) -->
+<!--END_SECTION:activity-->
 
 ## I'm a newbie Developer that is trying his best at coding
 
