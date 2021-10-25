@@ -1,5 +1,7 @@
 ### Hi there, I'm @Boierul 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boierul&show_icons=true&theme=radical)
+
 ## I'm a newbie Developer that is trying his best at coding
 
 - 🌱 I’m currently learning too much and code too little  ¯\\_(ツ)_/¯
@@ -25,8 +27,6 @@
 <br />
 <br /> -->
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boierul&show_icons=true&theme=radical)
 
 ### Connect with me:
 
