@@ -8,7 +8,7 @@
 3. ❗️ Working on my own personal website 
 <!--END_SECTION:activity-->
 
-## I'm a developer that is trying his best at coding
+## I'm a relatively new dev that is trying his best at coding
 
 - 🌱 I’m currently learning too much and programming too little  *¯\\\_(ツ)_/¯*
 - 🥅 Near-future Goals: Contribute more to Open Source projects  
