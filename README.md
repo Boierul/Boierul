@@ -21,8 +21,10 @@
   <summary>🔭 The projects of mine</summary>
   
 <!--START_SECTION:activity-->
-1. ✔️ First attempt at using a WebApi to [CRUD data](https://github.com/Boierul/TodosWebAPI) 
-2. 🔒 Implementation of famous [Cryptographical Algorithms](https://github.com/Boierul/Cryptography) in Python
+1. ⭕ Implementation of the custom API to [CRUD](https://github.com/Boierul/TodosWebAPI) data 
+2. ⭕ Implementation of famous [Cryptographical Algorithms](https://github.com/Boierul/Cryptography) in Python
+3. ⭕ [Meme Generator](https://github.com/Boierul/meme-generator) WebApplication in React.js
+4. ⭕ [Youtube Clone](https://github.com/Boierul/youtube-clone) in React.js
 <!--END_SECTION:activity-->
 
 </details>
@@ -35,7 +37,6 @@
 [<img align="left" alt="INPROGRESS..." width="22px" src="https://github.com/Boierul/Boierul/blob/main/Images/Website_Globe.png" />][website]
 [<img align="left" alt="Boierul | LinkedIn" width="22px" src="https://github.com/Boierul/Boierul/blob/main/Images/LinkedIn_Logo.png" />][linkedin]
 <br />
-
 
 
 [website]: #TBD
