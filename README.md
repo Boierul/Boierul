@@ -75,6 +75,23 @@
           </br>
           *[Data Layer](https://github.com/sperlik-oliver/semester-project-3-cinema-system-data-layer)*
           </br></br>
+          <details>
+                 <summary>Project Screenshots</summary>
+                   </br>
+                   ![SEP3_Image_1](https://i.postimg.cc/6qcWbQdC/Screenshot-1.png)
+                   ![SEP3_Image_2](https://i.postimg.cc/DyYFSH5f/Screenshot-2.png)
+                   </br>
+                   ![SEP3_Image_3](https://i.postimg.cc/25G06RF2/Screenshot-3.png)
+                   ![SEP3_Image_4](https://i.postimg.cc/GhYwptBK/Screenshot-4.png)
+                   </br>
+                   ![SEP3_Image_5](https://i.postimg.cc/wT5fPmyC/Screenshot-5.png)
+                   ![SEP4_Image_6](https://i.postimg.cc/1t6cqkDk/Screenshot-6.png)
+                   </br>
+                    ![SEP3_Image_7](https://i.postimg.cc/RVvQWbhY/Screenshot-7.png)
+                    ![SEP3_Image_8](https://i.postimg.cc/cHqf0FPX/Screenshot-8.png)
+                   </br>
+          </details>
+          </br>
 4. 🔴 Semester 4 group project: [Cinema Booking System](https://github.com/sperlik-oliver/semester-project-3-cinema-system-presentation-layer) 
          </br>
           `Area:`   Enterprise, Android Application, IOT
@@ -119,8 +136,9 @@
 <!--START_SECTION:activity-->
 1. ⭕ Implementation of the custom API to [CRUD](https://github.com/Boierul/TodosWebAPI) data 
 2. ⭕ Implementation of famous [Cryptographical Algorithms](https://github.com/Boierul/Cryptography) in Python
-3. ⭕ [Meme Generator](https://github.com/Boierul/meme-generator) WebApplication in React.js
-4. ⭕ [Youtube Clone](https://github.com/Boierul/youtube-clone) in React.js
+3. ⭕ Skateboard Shop [Android Application](https://github.com/Boierul/SkateShopApp)
+4. ⭕ [Meme Generator](https://github.com/Boierul/meme-generator) WebApplication in React.js
+5. ⭕ [Youtube Clone](https://github.com/Boierul/youtube-clone) in React.js
 <!--END_SECTION:activity-->
 
 </details>
