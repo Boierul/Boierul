@@ -5,12 +5,12 @@
 <!--START_SECTION:activity-->
 1. 💪 Created a decent [GitHub page](https://github.com/Boierul)
 2. 🧱 Commited a couple of personal [projects](https://github.com/Boierul?tab=repositories)  
-3. ❗️ Working on my own personal website 
+3. ❗️ Working on my own personal website, and more 
 <!--END_SECTION:activity-->
 
 ## I'm a relatively new dev that is trying his best at coding
 
-- 🌱 I’m currently learning too much and programming too little  *¯\\\_(ツ)_/¯*
+- 🌱 I’m currently dedicated to master React.js and web development in general
 - 🥅 Near-future Goals: Contribute more to Open Source projects  
 - 🗨️ Fun fact: Bears eat beets. Bears, Beets, Battlestar Galactica!
 <br>
@@ -85,13 +85,31 @@
           </br>
           `Layers:` 
           </br></br>
-          *[Presentation Layer](https://github.com/breznytomas/SEP4Android)*
+          *[Presentation Layer/Android](https://github.com/breznytomas/SEP4Android)*
           </br>
           *[Business Layer/Middleware](https://github.com/breznytomas/SEP4-Middleware)*
           </br>
           *[Data Layer/Data Warehouse](https://github.com/breznytomas/SEP4DataWarehouse)*
           </br>
           *[Data Layer/IOT](https://github.com/iustin05/SEP4IOT)*
+          </br></br>
+          <details>
+                 <summary>Project Screenshots</summary>
+                   </br>
+                   ![SEP4_Image_1](https://i.postimg.cc/7hmvhnpT/Screenshot-20221027-192447.png)
+                   ![SEP4_Image_2](https://i.postimg.cc/gjTW4KNb/Screenshot-20221027-192513.png)
+                   </br>
+                   ![SEP4_Image_3](https://i.postimg.cc/2y8H3RdC/Screenshot-20221027-191844.png)
+                   ![SEP4_Image_4](https://i.postimg.cc/dVmTNkPS/Screenshot-20221027-192331.png)
+                   </br>
+                   ![SEP4_Image_5](https://i.postimg.cc/bN65DTvq/Screenshot-20221027-192027.png)
+                   ![SEP4_Image_6](https://i.postimg.cc/Dwx5YyGF/Screenshot-20221027-192206.png)
+                   </br>
+                    ![SEP4_Image_7](https://i.postimg.cc/QMLVDc1q/Screenshot-20221027-192232.png)
+                    ![SEP4_Image_8](https://i.postimg.cc/0Qz8JQYN/Screenshot-20221027-191959.png)
+                   </br>
+          </details>
+          </br>
 <!--END_SECTION:activity-->
 </details>
 <br>
