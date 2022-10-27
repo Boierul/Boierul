@@ -27,6 +27,17 @@
           </br>
           `Description:`  Basic desktop application in which CRUD operations are used to fetch or create data locally
           </br></br>
+          <details>
+                 <summary>Project Screenshots</summary>
+                   </br>
+                   ![SEP1_Image_1](https://i.postimg.cc/3J8J1f9p/Picture1.png)
+                   </br>
+                   ![SEP1_Image_2](https://i.postimg.cc/bNwpkDN9/Screenshot-1.png)
+                   </br>
+                   ![SEP1_Image_3](https://i.postimg.cc/N01WWBj0/Screenshot-2.png)
+                   </br>
+          </details>
+          </br>
 2. 🔴 Semester 2 group project: [Car Rental System](https://github.com/Tymon2115/SEP2)
           </br>
           `Area:`  Enterprise, Desktop App 
@@ -34,9 +45,20 @@
           `Technologies:`  Java, JavaFX, PostgreSQL 
           </br>
           `Description:`  Simple desktop app for a fictional company that allowed many employees to book a car for one of their customers, with the according data stored in database using socket server
-          </br>
-          asdfadsf
           </br></br>
+          <details>
+                 <summary>Project Screenshots</summary>
+                   </br>
+                   ![SEP2_Image_1](https://i.postimg.cc/mk9t7PSw/Picture5.png)
+                   </br>
+                   ![SEP2_Image_2](https://i.postimg.cc/W3k2HQJp/Picture4.png)
+                   </br>
+                   ![SEP2_Image_3](https://i.postimg.cc/sfm8RT93/Picture2.png)
+                   </br>
+                   ![SEP2_Image_4](https://i.postimg.cc/dQ5WfLw1/Picture3.png)
+                   </br>
+          </details>
+          </br>
 3. 🔴 Semester 3 group project: [Cinema Booking System](https://github.com/sperlik-oliver/semester-project-3-cinema-system-presentation-layer) 
           </br>
           `Area:`  Enterprise, Web Application
@@ -70,8 +92,6 @@
           *[Data Layer/Data Warehouse](https://github.com/breznytomas/SEP4DataWarehouse)*
           </br>
           *[Data Layer/IOT](https://github.com/iustin05/SEP4IOT)*
-          </br>
-          </br>
 <!--END_SECTION:activity-->
 </details>
 <br>
