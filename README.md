@@ -34,6 +34,8 @@
           `Technologies:`  Java, JavaFX, PostgreSQL 
           </br>
           `Description:`  Simple desktop app for a fictional company that allowed many employees to book a car for one of their customers, with the according data stored in database using socket server
+          </br>
+          asdfadsf
           </br></br>
 3. 🔴 Semester 3 group project: [Cinema Booking System](https://github.com/sperlik-oliver/semester-project-3-cinema-system-presentation-layer) 
           </br>
@@ -66,7 +68,10 @@
           *[Business Layer/Middleware](https://github.com/breznytomas/SEP4-Middleware)*
           </br>
           *[Data Layer/Data Warehouse](https://github.com/breznytomas/SEP4DataWarehouse)*
-          </br></br>
+          </br>
+          *[Data Layer/IOT](https://github.com/iustin05/SEP4IOT)*
+          </br>
+          </br>
 <!--END_SECTION:activity-->
 </details>
 <br>
