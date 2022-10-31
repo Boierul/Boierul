@@ -134,7 +134,7 @@
   <summary>Extra-curricular Projects</summary>
   
 <!--START_SECTION:activity-->
-1. ⭕ Implementation of the custom API to [CRUD](https://github.com/Boierul/TodosWebAPI) data 
+1. ⭕ Implementation of a [custom API](https://github.com/Boierul/TodosWebAPI) to CRUD data as a backend server
 2. ⭕ Implementation of a [postfix calculator](https://github.com/Boierul/PostfixCalculator) via stack/linked list in Java
 3. ⭕ Implementation of famous [Cryptographical Algorithms](https://github.com/Boierul/Cryptography) in Python
 4. ⭕ Skateboard Shop [Android Application](https://github.com/Boierul/SkateShopApp)
