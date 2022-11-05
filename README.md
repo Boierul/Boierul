@@ -13,6 +13,18 @@
 - 🌱 I’m currently dedicated to master React.js and web development in general
 - 🥅 Near-future Goals: Contribute more to Open Source projects  
 - 🗨️ Fun fact: Bears eat beets. Bears, Beets, Battlestar Galactica!
+
+#### Extra-Curricular Projects
+
+1. ⭕ Implementation of a [RESTful API service](https://github.com/Boierul/TodosWebAPI) to CRUD custom data  [C# / SwaggerAPI]
+2. ⭕ Implementation of a fictional [currecy exchange](https://github.com/Boierul/UtopiaCoin) [ Java ]
+3. ⭕ Implementation of a [postfix calculator](https://github.com/Boierul/PostfixCalculator) via stack/linked list [ Java ]
+4. ⭕ Implementation of famous [Cryptographical Algorithms](https://github.com/Boierul/Cryptography) [ Python ]
+5. ⭕ Skateboard Shop [Android Application](https://github.com/Boierul/SkateShopApp) [ Java ]
+6. ⭕ [Meme Generator](https://github.com/Boierul/meme-generator) WebApplication [ React.js ]
+7. ⭕ [Youtube Clone](https://github.com/Boierul/youtube-clone) [ React.js / MUI ]
+8. ⭕ [Administrator Dashboard](https://github.com/Boierul/AdminDashboard) [ React.js/ MUI ]
+
 <br>
 
 <details> 
@@ -25,7 +37,7 @@
           </br>
           `Technologies:`  Java, JavaFX, JavaScript, jQuery 
           </br>
-          `Description:`  Basic desktop application in which CRUD operations are used to fetch or create data locally
+          `Description:`  Simple desktop application in which CRUD operations are used to fetch or create data in a local file. 
           </br></br>
           <details>
                  <summary>Project Screenshots</summary>
@@ -44,7 +56,7 @@
           </br>
           `Technologies:`  Java, JavaFX, PostgreSQL 
           </br>
-          `Description:`  Simple desktop app for a fictional company that allowed many employees to book a car for one of their customers, with the according data stored in database using socket server
+          `Description:`  Simple desktop app for a fictional company. The app is allowing company employees to book a car for one of their customer. Data stored in local database using web sockets.
           </br></br>
           <details>
                  <summary>Project Screenshots</summary>
@@ -65,7 +77,7 @@
           </br>
           `Technologies:`    .NET Core, Java, Java SpringBoot, PostgreSQL, GraphQL, Heroku Cloud Platform
           </br>
-          `Description:`   A three tier system that allow employees to sell a ticket through the use of a fully functional website. Middleware was used to make the app scale properly in the future as well as prolong the lifecycle of the app.
+          `Description:`   A three tier system that allows cinema's employees to sell its tickets through the use of a fully functional website. Middleware was used to make the app scale properly in the future as well as prolong the lifecycle of the app.
           </br>
           `Layers:` 
           </br></br>
@@ -98,7 +110,7 @@
           </br>
           `Technologies:`  Android Java, Adobe XD/Photoshop, Retrofit, Room, Heroku Cloud Platform, LORAWAN, .NET Core, PowerBI, PostgreSQL 
           </br>
-          `Description:`   A n-tier system (with Middleware in .NET) that allows a user to view the data from an embeded board filled with sensors. The board sends data through LORAWAN to the data server. The data is made abvailable through API calls which are made from the Android application.
+          `Description:`   N-tier system (with Middleware in .NET) that displays data from an embeded IOT board filled with Temperature/Humidity/CO2/Light sensors. The board sends data through LORAWAN communication protocol to the data server. The data is made available through API calls, which are made from the Android application.
           </br>
           `Layers:` 
           </br></br>
@@ -128,21 +140,6 @@
           </details>
           </br>
 <!--END_SECTION:activity-->
-</details>
-<br>
-<details>
-  <summary>Extra-curricular Projects</summary>
-<!--START_SECTION:activity-->
-1. ⭕ Implementation of a [custom API](https://github.com/Boierul/TodosWebAPI) to CRUD data as a backend server [C#]
-2. ⭕ Implementation of a fictional [currecy exchange](https://github.com/Boierul/UtopiaCoin) [ Java ]
-3. ⭕ Implementation of a [postfix calculator](https://github.com/Boierul/PostfixCalculator) via stack/linked list [ Java ]
-4. ⭕ Implementation of famous [Cryptographical Algorithms](https://github.com/Boierul/Cryptography) [ Python ]
-5. ⭕ Skateboard Shop [Android Application](https://github.com/Boierul/SkateShopApp) [ Java ]
-6. ⭕ [Meme Generator](https://github.com/Boierul/meme-generator) WebApplication [ React.js ]
-7. ⭕ [Youtube Clone](https://github.com/Boierul/youtube-clone) [ React.js / MUI ]
-8. ⭕ [Administrator Dashboard](https://github.com/Boierul/AdminDashboard) [ React.js/ MUI ]
-<!--END_SECTION:activity-->
-
 </details>
 <br>
 
