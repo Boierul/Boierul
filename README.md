@@ -132,15 +132,15 @@
 <br>
 <details>
   <summary>Extra-curricular Projects</summary>
-  
 <!--START_SECTION:activity-->
-1. ⭕ Implementation of a [custom API](https://github.com/Boierul/TodosWebAPI) to CRUD data as a backend server
-2. ⭕ Implementation of a fictional [currecy exchange](https://github.com/Boierul/UtopiaCoin)
-3. ⭕ Implementation of a [postfix calculator](https://github.com/Boierul/PostfixCalculator) via stack/linked list in Java
-4. ⭕ Implementation of famous [Cryptographical Algorithms](https://github.com/Boierul/Cryptography) in Python
-5. ⭕ Skateboard Shop [Android Application](https://github.com/Boierul/SkateShopApp)
-6. ⭕ [Meme Generator](https://github.com/Boierul/meme-generator) WebApplication in React.js
-7. ⭕ [Youtube Clone](https://github.com/Boierul/youtube-clone) in React.js
+1. ⭕ Implementation of a [custom API](https://github.com/Boierul/TodosWebAPI) to CRUD data as a backend server [C#]
+2. ⭕ Implementation of a fictional [currecy exchange](https://github.com/Boierul/UtopiaCoin) [ Java ]
+3. ⭕ Implementation of a [postfix calculator](https://github.com/Boierul/PostfixCalculator) via stack/linked list [ Java ]
+4. ⭕ Implementation of famous [Cryptographical Algorithms](https://github.com/Boierul/Cryptography) [ Python ]
+5. ⭕ Skateboard Shop [Android Application](https://github.com/Boierul/SkateShopApp) [ Java ]
+6. ⭕ [Meme Generator](https://github.com/Boierul/meme-generator) WebApplication [ React.js ]
+7. ⭕ [Youtube Clone](https://github.com/Boierul/youtube-clone) [ React.js / MUI ]
+8. ⭕ [Administrator Dashboard](https://github.com/Boierul/AdminDashboard) [ React.js/ MUI ]
 <!--END_SECTION:activity-->
 
 </details>
