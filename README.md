@@ -26,7 +26,7 @@
 8. ⭕ [Administrator Dashboard](https://github.com/Boierul/AdminDashboard) [ React.js/ MUI ]
 9. ⭕ [GraphQL Frontend](https://github.com/Boierul/graphql-frontend) [ React.js/ Apollo Client/ GraphQL ]
 10. ⭕ [GraphQL Backend](https://github.com/Boierul/graphql-backend) [ Apollo Server/ Node.js/ Express/ GraphQL]
-11. ⭕ [Fullstack MERN](https://github.com/Boierul/fullstack-mern-app) [ MongoDB/ Express/ React.js/ Node.js/ GraphQL/ GraphiQL/ Bootstrap]
+11. ⭕ [Fullstack MERN](https://github.com/Boierul/fullstack-mern-app) [ MongoDB/ Express/ React.js/ Node.js/ GraphQL/ GraphiQL/ Apollo Client/ Bootstrap]
 
 <br>
 
