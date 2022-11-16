@@ -28,6 +28,7 @@
 10. ⭕ [GraphQL Frontend](https://github.com/Boierul/graphql-frontend) [ React.js/ Apollo Client/ GraphQL ]
 11. ⭕ [GraphQL Backend](https://github.com/Boierul/graphql-backend) [ Apollo Server/ Node.js/ Express/ GraphQL]
 12. ⭕ [Fullstack MERN](https://github.com/Boierul/fullstack-mern-app) [ MongoDB/ Express/ React.js/ Node.js/ GraphQL/ GraphiQL/ Apollo Client/ Bootstrap]
+13. ⭕ [Online E-commerce web application](https://github.com/Boierul/online-shop) with Stripe payments [ React.js/ MUI/ Stripe/ StrAPI/ ]
 
 <br>
 
