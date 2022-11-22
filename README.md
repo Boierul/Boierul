@@ -110,7 +110,7 @@
                    </br>
           </details>
           </br>
-4. 🔴 Semester 4 group project: [Cinema Booking System](https://github.com/sperlik-oliver/semester-project-3-cinema-system-presentation-layer) 
+4. 🔴 Semester 4 group project: [Android app for IoT sensors](https://github.com/sperlik-oliver/semester-project-3-cinema-system-presentation-layer) 
          </br>
           `Area:`   Enterprise, Android Application, IOT
           </br>
