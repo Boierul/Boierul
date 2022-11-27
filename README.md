@@ -30,6 +30,8 @@
 12. ⭕ [Fullstack MERN](https://github.com/Boierul/fullstack-mern-app) [ MongoDB/ Express/ React.js/ Node.js/ GraphQL/ GraphiQL/ Apollo Client/ Bootstrap ]
 13. ⭕ [Online E-commerce web application](https://github.com/Boierul/online-shop) with Stripe payments [ React.js/ MUI/ Stripe/ StrAPI/ Redux/ Redux-Toolkit ]
 14. ⭕ [Neubrutalist website](https://github.com/Boierul/neubrutalism-demo-website) [ React.js ]
+15. ⭕ [Social Network](https://github.com/Boierul/fullstack-social-network) with JWT auth [ MongoDB/ Express/ React.js/ Node.js/ Postman/ Redux/ Redux-Toolkit/ MUI ]
+
 
 <br>
 
