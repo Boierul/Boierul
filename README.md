@@ -16,7 +16,7 @@
 
 #### Extra-Curricular Projects
 
-1. ⭕ Implementation of a [RESTful API service](https://github.com/Boierul/TodosWebAPI) to CRUD custom data  [C# / SwaggerAPI]
+1. ⭕ Implementation of a [RESTful API service](https://github.com/Boierul/TodosWebAPI) to CRUD custom data  [ C# / SwaggerAPI ]
 2. ⭕ Implementation of a fictional [currecy exchange](https://github.com/Boierul/UtopiaCoin) [ Java ]
 3. ⭕ Implementation of a [postfix calculator](https://github.com/Boierul/PostfixCalculator) via stack/linked list [ Java ]
 4. ⭕ Implementation of famous [Cryptographical Algorithms](https://github.com/Boierul/Cryptography) [ Python ]
@@ -31,7 +31,7 @@
 13. ⭕ [Online E-commerce web application](https://github.com/Boierul/online-shop) with Stripe payments [ React.js/ MUI/ Stripe/ StrAPI/ Redux/ Redux-Toolkit ]
 14. ⭕ [Neubrutalist website](https://github.com/Boierul/neubrutalism-demo-website) [ React.js ]
 15. ⭕ [Social Network](https://github.com/Boierul/fullstack-social-network) with JWT auth [ MongoDB/ Express/ React.js/ Node.js/ Postman/ Redux/ Redux-Toolkit/ MUI ]
-
+16. ⭕ [Metaversus](https://github.com/Boierul/metaverse-webapp) - a web 3.0 website [ React.js/ Next.js/ TailwindCSS/ Framer-Motion ]
 
 <br>
 
