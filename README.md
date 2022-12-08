@@ -32,6 +32,7 @@
 14. ⭕ [Neubrutalist website](https://github.com/Boierul/neubrutalism-demo-website) [ React.js ]
 15. ⭕ [Social Network](https://github.com/Boierul/fullstack-social-network) with JWT auth [ MongoDB/ Express/ React.js/ Node.js/ Postman/ Redux/ Redux-Toolkit/ MUI ]
 16. ⭕ [Metaversus](https://github.com/Boierul/metaverse-webapp) - a web 3.0 website [ React.js/ Next.js/ TailwindCSS/ Framer-Motion ]
+17. ⭕ [Airbnb clone](https://github.com/Boierul/airbnb_webapp) [ React.js/ MUI ]
 
 <br>
 
