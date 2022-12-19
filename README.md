@@ -35,6 +35,8 @@
 17. ⭕ [Airbnb clone](https://github.com/Boierul/airbnb_webapp) [ React.js/ MUI/ Docker ]
 18. ⭕ Scrollable dynamic [SVG website](https://github.com/Boierul/svg_website) [ React.js ]
 19. ⭕ Interactive [3D website](https://github.com/Boierul/three-js-spinme-website/tree/master/vite-project) [ THREE.js/ GSAP/ JavaScript ]
+20. ⭕ Minimalistic [navbar](https://github.com/Boierul/gsap-menu-website) [ GSAP/ JavaScript ]
+21. ⭕ Minimalistic [navbar](https://github.com/Boierul/gsap-menu-website-react) [ GSAP/ React.js ]
 
 <br>
 
