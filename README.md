@@ -41,7 +41,8 @@
 20. ⭕ Minimalistic [navbar](https://github.com/Boierul/gsap-menu-website) [ GSAP/ JavaScript ]
 21. ⭕ Minimalistic [navbar](https://github.com/Boierul/gsap-menu-website-react) [ GSAP/ React.js ]
 22. ⭕ Designer smooth scrolling [website](https://github.com/Boierul/smooth-scrolling/tree/master/modern-gallery) [ GSAP/ Lenis/ Less/ JavaScript ]
-
+23. ⭕ [Modern navbar](https://github.com/Boierul/sticky_nav) [ React.js ]
+         
 </details>
 
 <details> 
