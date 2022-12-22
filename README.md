@@ -47,7 +47,7 @@
 
 <details> 
    <summary>Semestrial Projects</summary>  
-         
+                <br>
 <!--START_SECTION:activity-->
 1. 🔴 Semester 1 group project: [Project Management System](https://github.com/sperlik-oliver/semester-project-1-project-management-system) 
          </br>
