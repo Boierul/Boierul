@@ -14,6 +14,8 @@
 - 🥅 Near-future Goals: Contribute more to Open Source projects  
 - 🗨️ Fun fact: Bears eat beets. Bears, Beets, Battlestar Galactica!
 
+## My Works
+
 <details><summary>Personal Projects</summary>
         <br>
 
