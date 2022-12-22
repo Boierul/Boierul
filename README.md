@@ -5,7 +5,7 @@
 <!--START_SECTION:activity-->
 1. 💪 Created a decent [GitHub page](https://github.com/Boierul)
 2. 🧱 Commited a couple of personal [projects](https://github.com/Boierul?tab=repositories)  
-3. ❗️ Working on my own personal website, and more 
+3. ❗️ Working on my own personal website, and more ...
 <!--END_SECTION:activity-->
 
 ## I'm a relatively new dev that is trying his best at coding
@@ -14,7 +14,8 @@
 - 🥅 Near-future Goals: Contribute more to Open Source projects  
 - 🗨️ Fun fact: Bears eat beets. Bears, Beets, Battlestar Galactica!
 
-#### Extra-Curricular Projects
+<details><summary>Personal Projects</summary>
+        <br>
 
 1. ⭕ Implementation of a [RESTful API service](https://github.com/Boierul/TodosWebAPI) to CRUD custom data  [ C# / SwaggerAPI ]
 2. ⭕ Implementation of a fictional [currecy exchange](https://github.com/Boierul/UtopiaCoin) [ Java ]
@@ -37,7 +38,9 @@
 19. ⭕ Interactive [3D website](https://github.com/Boierul/three-js-spinme-website/tree/master/vite-project) [ THREE.js/ GSAP/ JavaScript ]
 20. ⭕ Minimalistic [navbar](https://github.com/Boierul/gsap-menu-website) [ GSAP/ JavaScript ]
 21. ⭕ Minimalistic [navbar](https://github.com/Boierul/gsap-menu-website-react) [ GSAP/ React.js ]
+22. ⭕ Designer smooth scrolling [website](https://smooth-scrolling-azure.vercel.app/) [ GSAP/ Lenis/ Less/ JavaScript ]
 
+</details>
 <br>
 
 <details> 
