@@ -38,10 +38,9 @@
 19. ⭕ Interactive [3D website](https://github.com/Boierul/three-js-spinme-website/tree/master/vite-project) [ THREE.js/ GSAP/ JavaScript ]
 20. ⭕ Minimalistic [navbar](https://github.com/Boierul/gsap-menu-website) [ GSAP/ JavaScript ]
 21. ⭕ Minimalistic [navbar](https://github.com/Boierul/gsap-menu-website-react) [ GSAP/ React.js ]
-22. ⭕ Designer smooth scrolling [website](https://smooth-scrolling-azure.vercel.app/) [ GSAP/ Lenis/ Less/ JavaScript ]
+22. ⭕ Designer smooth scrolling [website](https://github.com/Boierul/smooth-scrolling/tree/master/modern-gallery) [ GSAP/ Lenis/ Less/ JavaScript ]
 
 </details>
-<br>
 
 <details> 
    <summary>Semestrial Projects</summary>  
