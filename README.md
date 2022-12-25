@@ -42,6 +42,7 @@
 21. ⭕ Minimalistic [navbar](https://github.com/Boierul/gsap-menu-website-react) [ GSAP/ React.js ]
 22. ⭕ Designer smooth scrolling [website](https://github.com/Boierul/smooth-scrolling/tree/master/modern-gallery) [ GSAP/ Lenis/ Less/ JavaScript ]
 23. ⭕ [Modern navbar](https://github.com/Boierul/sticky_nav) [ React.js ]
+24. ⭕ [ChatGPT AI web-application](https://github.com/Boierul/openai_chat_webapp) [ JavaScript/ Node.js ]
          
 </details>
 
