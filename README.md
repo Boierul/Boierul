@@ -1,5 +1,12 @@
-### Hi there, I'm @Boierul 👋
-         
+# Hi there, I'm @Boierul 👋
+ 
+ ### I'm a relatively new dev that is trying his best at coding
+
+- 🌱 Currently mastering web-development
+- 🥅 Near-future goals: contribute more to open source projects  
+- 🗨️ Fun fact: Bears eat beets. Bears, Beets, Battlestar Galactica!
+
+ 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
@@ -7,14 +14,7 @@
 2. 🧱 Commited a couple of personal [projects](https://github.com/Boierul?tab=repositories)  
 3. ❗️ Working on my own personal website, and more ...
 <!--END_SECTION:activity-->
-
-## I'm a relatively new dev that is trying his best at coding
-
-- 🌱 I’m currently dedicated to master React.js and web development in general
-- 🥅 Near-future Goals: Contribute more to Open Source projects  
-- 🗨️ Fun fact: Bears eat beets. Bears, Beets, Battlestar Galactica!
-
-## My Works
+### My Works
 
 <details><summary>Personal Projects</summary>
         <br>
@@ -158,13 +158,13 @@
           </details>
           </br>
           
-</details>
-<br>  
 
 </details>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boierul&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=Boierul&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Boierul&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Boierul&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### Connect with me:
 
