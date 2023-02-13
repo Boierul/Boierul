@@ -12,7 +12,7 @@
 <!--START_SECTION:activity-->
 1. 💪 Created a decent [GitHub page](https://github.com/Boierul)
 2. 🧱 Commited a couple of personal [projects](https://github.com/Boierul?tab=repositories)  
-3. ❗️ Working on my own [personal website](https://personal-website-mntteknag-boierul.vercel.app/), and more ...
+3. ❗️ Working on my own [personal website](https://personal-website-q0xjyhcm7-boierul.vercel.app/), and more ...
 <!--END_SECTION:activity-->
 ### My Works
 
