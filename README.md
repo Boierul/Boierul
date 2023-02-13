@@ -12,7 +12,7 @@
 <!--START_SECTION:activity-->
 1. 💪 Created a decent [GitHub page](https://github.com/Boierul)
 2. 🧱 Commited a couple of personal [projects](https://github.com/Boierul?tab=repositories)  
-3. ❗️ Working on my own personal website, and more ...
+3. ❗️ Working on my own [personal website](https://personal-website-mntteknag-boierul.vercel.app/), and more ...
 <!--END_SECTION:activity-->
 ### My Works
 
@@ -43,6 +43,7 @@
 22. ⭕ Designer smooth scrolling [website](https://github.com/Boierul/smooth-scrolling/tree/master/modern-gallery) [ GSAP/ Lenis/ Less/ JavaScript ]
 23. ⭕ [Modern navbar](https://github.com/Boierul/sticky_nav) [ React.js ]
 24. ⭕ [ChatGPT AI web-application](https://github.com/Boierul/openai_chat_webapp) [ JavaScript/ Node.js ]
+25. ⭕ [Web-application for storing images](https://github.com/Boierul/aws-image-upload) [ React.js/ Java Spring Boot/ Amazon S3 ]
          
 </details>
 
