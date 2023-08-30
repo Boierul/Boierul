@@ -167,6 +167,30 @@
           </details>
           </br>
           
+5. 🔴 Semester 6 group project: [Online Movie Platform](https://github.com/senker/sep6) 
+         </br>
+          `Area:`  Fullstack Web-application, Cloud Hosted Application 
+          </br>
+          `Technologies:`  Typescript, Next.js, NextAuth.js, Recoil.js, Github Actions, Prisma, MongoDB 
+          </br>
+          `Description:`  Fullstack cloud web-application that allows users to watch trailers and see additional information about the latest and most rated movies 
+          </br></br>
+          <details>
+                 <summary>Project Screenshots</summary>
+                   </br>
+                   ![SEP6_Image_1](https://i.postimg.cc/ZnWj2c3c/movies-platform-1.jpg)
+                   </br>
+                   ![SEP6_Image_2](https://i.postimg.cc/9Ft1Srws/movies-platform-2.jpg)
+                   </br>
+                   ![SEP6_Image_3](https://i.postimg.cc/tgLh7jVh/movies-platform-3.jpg)
+                   </br>
+                   ![SEP6_Image_4](https://i.postimg.cc/jSDwf1Tv/movies-platform-4.jpg)
+                   </br>
+                   ![SEP6_Image_5](https://i.postimg.cc/52Kr76Zb/movies-platform-5.jpg)
+                   </br>
+          </details>
+          </br>
+          
 
 </details>
 <br>
