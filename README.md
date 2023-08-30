@@ -2,8 +2,8 @@
  
  ### I'm a relatively new dev that is trying his best at coding
 
-- 🌱 Currently mastering web-development
-- 🥅 Near-future goals: contribute more to open source projects  
+- 🌱 Currently mastering web-development, cryptography, blockchain programming, 3D modelling and more ... 
+- 🥅 Near-future goals: contribute more to open source projects,   
 - 🗨️ Fun fact: Bears eat beets. Bears, Beets, Battlestar Galactica!
 
  
@@ -12,7 +12,7 @@
 <!--START_SECTION:activity-->
 1. 💪 Created a decent [GitHub page](https://github.com/Boierul)
 2. 🧱 Commited a couple of personal [projects](https://github.com/Boierul?tab=repositories)  
-3. ❗️ Working on my own [personal website](https://personal-website-boierul.vercel.app/), and more ...
+3. ❗️ Finished my [personal portfolio website](https://personal-website-boierul.vercel.app/)
 <!--END_SECTION:activity-->
 ### My Works
 
@@ -44,6 +44,14 @@
 23. ⭕ [Modern navbar](https://github.com/Boierul/sticky_nav) [ React.js ]
 24. ⭕ [ChatGPT AI web-application](https://github.com/Boierul/openai_chat_webapp) [ JavaScript/ Node.js ]
 25. ⭕ [Web-application for storing images](https://github.com/Boierul/aws-image-upload) [ React.js/ Java Spring Boot/ Amazon S3 ]
+26. ⭕ [Interview Siemens project](https://github.com/Boierul/siemens-demo) [React.js, Redux, Three.js]
+27. ⭕ [Codepen clone](https://github.com/Boierul/codepen-clone) [React.js]
+28. ⭕ DevOps [CI/CD](https://github.com/Boierul/ci_cd_jenkins) with Jenkins [Python, Docker] 
+29. ⭕ Bruno Simons [Three.js Course](https://github.com/Boierul/threejs-journey-projects) [Three.js, React Three Fiber]
+30. ⭕ [Functional Programing Course](https://github.com/Boierul/FSharpTutorials) [F#]
+31. ⭕ [Django online cafe](https://github.com/Boierul/g2g_cafe) [Python, Django]
+32. ⭕ Nest.js [API testing](https://github.com/Boierul/nestjs-api-tutorial) [Nest.js, Node.js, Typesript, Docker]
+33. ⭕ [Solidity course](https://github.com/Boierul/Solidity) [Solidity]
          
 </details>
 
