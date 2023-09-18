@@ -202,8 +202,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Boierul | PortfolioWebsite" width="22px" src="https://github.com/Boierul/Boierul/assets/49337867/e1eda284-2c1e-4fd6-a757-ec01838a8b46" />][website]
-[<img align="left" alt="Boierul | LinkedIn" width="22px" src="https://github.com/Boierul/Boierul/assets/49337867/3391c91e-6dac-4a7e-9c4b-7dedd3b501e8" />][linkedin]
+[<img align="left" alt="Boierul | LinkedIn" width="32px" src="https://raw.githubusercontent.com/Boierul/Boierul/main/Images/linkedin.png" />][linkedin]
+[<img align="left" alt="Boierul | PortfolioWebsite" width="32px" src="https://raw.githubusercontent.com/Boierul/Boierul/main/Images/browser.png" />][website]
 <br />
 
 [website]: https://boierul.vercel.app/
