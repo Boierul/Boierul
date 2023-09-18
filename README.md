@@ -201,10 +201,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="INPROGRESS..." width="22px" src="https://github.com/Boierul/Boierul/blob/main/Images/Website_Globe.png" />][website]
-[<img align="left" alt="Boierul | LinkedIn" width="22px" src="https://github.com/Boierul/Boierul/blob/main/Images/LinkedIn_Logo.png" />][linkedin]
+[<img align="left" alt="INPROGRESS..." width="22px" src="https://github.com/Boierul/Boierul/assets/49337867/e1eda284-2c1e-4fd6-a757-ec01838a8b46" />][website]
+[<img align="left" alt="Boierul | LinkedIn" width="22px" src="https://github.com/Boierul/Boierul/assets/49337867/3391c91e-6dac-4a7e-9c4b-7dedd3b501e8" />][linkedin]
 <br />
-
 
 [website]: https://boierul.vercel.app/
 [linkedin]: https://www.linkedin.com/in/pintea-dan/
