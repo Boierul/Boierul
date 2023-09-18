@@ -199,9 +199,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Boierul&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Boierul&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
 ### Connect with me:
 
-[<img align="left" alt="INPROGRESS..." width="22px" src="https://github.com/Boierul/Boierul/assets/49337867/e1eda284-2c1e-4fd6-a757-ec01838a8b46" />][website]
+[<img align="left" alt="Boierul | PortfolioWebsite" width="22px" src="https://github.com/Boierul/Boierul/assets/49337867/e1eda284-2c1e-4fd6-a757-ec01838a8b46" />][website]
 [<img align="left" alt="Boierul | LinkedIn" width="22px" src="https://github.com/Boierul/Boierul/assets/49337867/3391c91e-6dac-4a7e-9c4b-7dedd3b501e8" />][linkedin]
 <br />
 
