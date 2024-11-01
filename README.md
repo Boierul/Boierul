@@ -1,19 +1,3 @@
-# Hi there, I'm @Boierul 👋
- 
- ### I'm a relatively new dev that is trying his best at coding
-
-- 🌱 Currently mastering web-development, cryptography, blockchain programming, 3D modelling and more ... 
-- 🥅 Near-future goals: contribute more to open source projects,   
-- 🗨️ Fun fact: Bears eat beets. Bears, Beets, Battlestar Galactica!
-
- 
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. 💪 Created a decent [GitHub page](https://github.com/Boierul)
-2. 🧱 Commited a couple of personal [projects](https://github.com/Boierul?tab=repositories)  
-3. ❗️ Finished my [personal portfolio website](https://personal-website-boierul.vercel.app/)
-<!--END_SECTION:activity-->
 ### My Works
 
 <details><summary>Personal Projects</summary>
