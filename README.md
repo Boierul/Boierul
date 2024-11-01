@@ -1,4 +1,6 @@
-### My Works
+# Projects
+
+### I code sometimes.
 
 <details><summary>Personal Projects</summary>
         <br>
@@ -179,17 +181,7 @@
 </details>
 <br>
 
-![](https://github-readme-stats.vercel.app/api?username=Boierul&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Boierul&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Boierul&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Boierul&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-### Connect with me:
-
-[<img align="left" alt="Boierul | LinkedIn" width="32px" src="https://raw.githubusercontent.com/Boierul/Boierul/main/Images/linkedin.png" />][linkedin]
-[<img align="left" alt="Boierul | PortfolioWebsite" width="32px" src="https://raw.githubusercontent.com/Boierul/Boierul/main/Images/browser.png" />][website]
-<br />
-
-[website]: https://boierul.vercel.app/
-[linkedin]: https://www.linkedin.com/in/pintea-dan/
 
