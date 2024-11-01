@@ -1,5 +1,3 @@
-# Projects
-
 ### I code sometimes.
 
 <details><summary>Personal Projects</summary>
